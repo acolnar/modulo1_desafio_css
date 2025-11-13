@@ -5,7 +5,7 @@
 }
 
 header{
-    background-image:url(/assets/img/Desierto.jpg);
+    background-image:url(../img/Desierto.jpg);
     background-position: center;
     height: 300px;
 }
