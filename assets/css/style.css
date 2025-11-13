@@ -1,0 +1,57 @@
+/* <weight>: Use a value from 100 to 900 */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image:url(/assets/img/Desierto.jpg);
+    background-position: center;
+    height: 300px;
+}
+
+.titulo{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.subtitulo{
+    text-align: center;
+    color: white;
+}
+
+body{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+img{
+    width: 400px;
+}
+
+.precio{
+    font-weight: 600;
+}
+
+article{
+    margin: 50px;
+}
+
+td{
+    padding: 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    height: 100px;
+}
+
+.footer{
+    font-weight: 300;
+    padding-top: 40px;
+}
